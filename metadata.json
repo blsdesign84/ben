@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ArtisanPackshot AI",
+  "description": "Transformez vos photos d'objets artisanaux en bois en packshots professionnels pour votre boutique en ligne grâce à l'IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
